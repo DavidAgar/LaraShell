@@ -16,7 +16,7 @@ This is my first look into PowerShell programming so please excuse any sloppy co
 
 ###Setup
 Copy the WindowsPowerShell folder to your Documents folder so you end up with the following<br>
-```C:\Users\<USER>\Documents\WindowsPowerShell\Modules\LaraShell```
+C:\Users\\[USER]\Documents\WindowsPowerShell\Modules\LaraShell
 
 Run Windows PowerShell as Administrator and type the following to allow PowerShell to run remote signed scripts<br>
 ```Set-ExecutionPolicy RemoteSigned```
